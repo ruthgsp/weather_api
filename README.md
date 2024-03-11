@@ -27,7 +27,7 @@ With this API, developers can easily retrieve weather data and have real-time we
 
 #### Get current weather data
 
-```http
+```
   GET /api/v1/weather?city={city}
 ```
 
@@ -37,7 +37,7 @@ With this API, developers can easily retrieve weather data and have real-time we
 
 ## Example
 
-```http
+```
   http://localhost:3000/api/v1/weather?city=london
 ```
 
@@ -112,7 +112,7 @@ JSON
 ```
 * Open browser
 
-```http
+```
     localhost:9411
 ```
 
